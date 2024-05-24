@@ -6,4 +6,4 @@ function TodoCounter() {
     );
   }
 
-  export { TodoCounter };
+export { TodoCounter };
